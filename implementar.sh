@@ -35,3 +35,4 @@ echo '    \/_/   \/_____/   \/_____/   \/_/ \/_/   \/_____/   \/_____/   \/_____
 sleep 3
 echo 'Tiempo de hoy:'
 date +"%H:%M:%S"
+sudo apt update
